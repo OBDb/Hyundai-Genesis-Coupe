@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Genesis_Coupe"
+
 generations:
   - name: "First Generation (Pre-refresh)"
     start_year: 2008
